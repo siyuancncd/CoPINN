@@ -11,6 +11,12 @@ Physics-informed neural networks (PINNs) aim to constrain the outputs and gradie
 
 ## Motivation
 
+<p align="center">
+<img src="https://github.com/siyuancncd/CoPINN/blob/main/CoPINN_motivation.png" width="440" height="240">
+</p>
+
+The 2D and 3D visualization of the absolute error between the predicted and exact values. The left graph illustrates the absolute error of the entire three-dimensional space. The middle graph demonstrates the absolute error of the boundary when $y=-1$, while the right graph displays the absolute error of the cross-section when $y=0$. (a) The absolute error of SPINN (SOTA) on the Helmholtz equation. These results indicate that SPINN exhibits significantly larger errors near the physical boundary region compared to the middle region, which reveals the Unbalanced Prediction Problem (UPP). (b) The absolute error of our CoPINN on the Helmholtz equation, which shows that CoPINN maintains consistent small absolute errors both near the physical boundary and in the middle region.
+
 ## Framework
 
 ## Experimental Results
