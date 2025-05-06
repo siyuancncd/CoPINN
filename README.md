@@ -1,6 +1,6 @@
 # CoPINN
 
-Siyuan Duan*, Wenyuan Wu*, Peng Hu, Zhenwen Ren, Dezhong Peng, and Yuan Sun. "CoPINN: Cognitive Physics-informed Neural Network". (ICML 2025, PyTorch Code)
+Siyuan Duan*, Wenyuan Wu*, Peng Hu, Zhenwen Ren, Dezhong Peng, and Yuan Sun. "CoPINN: Cognitive Physics-informed Neural Network". (ICML 2025, JAX Code)
 
 ## 
 
