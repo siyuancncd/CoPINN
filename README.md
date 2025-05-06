@@ -20,7 +20,7 @@ The 2D and 3D visualization of the absolute error between the predicted and exac
 ## Framework
 
 <p align="center">
-<img src="https://github.com/siyuancncd/CoPINN/blob/main/CoPINN_framework.png" width="960" height="520">
+<img src="https://github.com/siyuancncd/CoPINN/blob/main/CoPINN_framework.png" width="960" height="500">
 </p>
 
 ## Experimental Results
