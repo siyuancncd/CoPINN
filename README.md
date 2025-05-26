@@ -46,7 +46,7 @@ coming soon...
 
 ## Question?
 
-If you have any questions, please email siyuanduancn AT gmail DOT com (Siyuan Duan).
+If you have any questions, please email siyuanduancn AT gmail DOT com (Siyuan Duan), wuwenyuan97@gmail.com (Wenyuan Wu).
 
 ## Acknowledgement
 
