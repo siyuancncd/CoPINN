@@ -9,8 +9,12 @@ Siyuan Duan*, Wenyuan Wu*, Peng Hu, Zhenwen Ren, Dezhong Peng, and Yuan Sun#. "C
 
 -->
 **Spotlight presentation**
-
+<!--
 https://github.com/user-attachments/assets/18d5e918-4d31-4ddb-b421-8f075f0fcf93
+-->
+
+https://github.com/user-attachments/assets/d279f7ac-a986-4bca-a1b9-9b34e6cbefa2
+
 
 
 ## Abstract
