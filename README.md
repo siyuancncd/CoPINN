@@ -2,6 +2,9 @@
 
 Siyuan Duan*, Wenyuan Wu*, Peng Hu, Zhenwen Ren, Dezhong Peng, and Yuan Sun#. "CoPINN: Cognitive Physics-Informed Neural Network". (ICML 2025, Spotlight (acc rate = 2.6%), JAX Code)
 
+- Poster is available at [here](https://github.com/siyuancncd/CoPINN/blob/main/CoPINN_poster.png).
+- PPT is available at [here](https://github.com/siyuancncd/CoPINN/blob/main/CoPINN.pdf).
+
 <!--
 ## 
 
