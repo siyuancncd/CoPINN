@@ -45,7 +45,7 @@ The 2D and 3D visualization of the absolute error between the predicted and exac
 
 ## Requirements
 
-coming soon...
+Follow [Separable PINN](https://github.com/stnamjef/SPINN).
 
 ## Train and test
 
