@@ -5,6 +5,7 @@ Siyuan Duan*, Wenyuan Wu*, Peng Hu, Zhenwen Ren, Dezhong Peng, and Yuan Sun#. "[
 - Poster is available at [here](https://github.com/siyuancncd/CoPINN/blob/main/CoPINN_poster.png).
 - PPT is available at [here](https://github.com/siyuancncd/CoPINN/blob/main/CoPINN.pdf).
 - Report is available at [here](https://mp.weixin.qq.com/s/3E3FdngVW6KShT5iiFAGRw).
+- 中文讲解 在 [这里](https://www.bilibili.com/video/BV1sQ32zWEXA/?spm_id_from=333.1387.collection.video_card.click&vd_source=6c3619d976449503d4bb811d9044ee7f&t=6408).
 
 <!--
 ## 
