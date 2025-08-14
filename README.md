@@ -86,6 +86,18 @@ python diffusion3d.py
 }
 ```
 
+```
+@article{WU2025106750,
+title = {Deep fuzzy physics-informed neural networks for forward and inverse PDE problems},
+journal = {Neural Networks},
+volume = {181},
+pages = {106750},
+year = {2025},
+issn = {0893-6080},
+author = {Wenyuan Wu and Siyuan Duan and Yuan Sun and Yang Yu and Dong Liu and Dezhong Peng},
+}
+```
+
 ## Question?
 
 If you have any questions, please email:
