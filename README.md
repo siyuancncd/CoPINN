@@ -82,7 +82,8 @@ python diffusion3d.py
 @inproceedings{duancopinn,
   title={CoPINN: Cognitive Physics-Informed Neural Networks},
   author={Duan, Siyuan and Wu, Wenyuan and Hu, Peng and Ren, Zhenwen and Peng, Dezhong and Sun, Yuan},
-  booktitle={Forty-second International Conference on Machine Learning}
+  booktitle={Forty-second International Conference on Machine Learning},
+  year={2025}
 }
 ```
 
