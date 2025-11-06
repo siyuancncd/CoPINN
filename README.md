@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="License">
-    <img src="https://komarev.com/ghpvc/?username=siyuancncd&repo=FUME" alt="GitHub Views">
+    <img src="https://komarev.com/ghpvc/?username=siyuancncd&repo=CoPINN" alt="GitHub Views">
 </p>
 
 Siyuan Duan*, Wenyuan Wu*, Peng Hu, Zhenwen Ren, Dezhong Peng, and Yuan Sun#. "[CoPINN: Cognitive Physics-Informed Neural Networks](https://openreview.net/forum?id=4vAa0A98xI&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions))". (ICML 2025, Spotlight (acc rate = 2.6%), JAX Code)
